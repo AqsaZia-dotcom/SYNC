@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SynC</string>
+    <string name="welcome">Welcome to SynC</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="signup2">SIGNING UP</string>
+    <string name="signin2">SIGNING IN</string>
+    <string name="email">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="con_password">Confirm Password</string>
+    <string name="Name">Aqsa Zia</string>
+    <string name="SignOut">Continue</string>
+    <string name="Settings">Settings</string>
+    <string name="ChangeUsername">CHANGE USERNAME</string>
+    <string name="ChangePassword">CHANGE PASSWORD</string>
+    <string name="RateApplication">RATE APPLICATION</string>
+    <string name="InviteFriends">INVITE FRIENDS</string>
+    <string name="ShareVia">SHARE VIA</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="whatsapp">WHATSAPP</string>
+    <string name="gmail">GMAIL</string>
+    <string name="paste_as_plain_text">App</string>
+    <string name="link">http://SynC.com/id-112309123</string>
+    <string name="click_to_share">CLICK TO SHARE</string>
+    <string name="upload_file">UPLOAD FILE</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="CHATBOT">Tap To Chat</string>
+    <string name="Continue">Continue</string>
+
+    click_to_share
+
+
+</resources>
